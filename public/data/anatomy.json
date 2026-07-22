@@ -1,0 +1,498 @@
+[
+  {
+    "id": "gianat-001",
+    "imageRef": "gianat-001_gi000_f02.png",
+    "answer": "Diaphragmatic crura",
+    "brick": "Benign Esophageal Disorders",
+    "category": "Gross Anatomy",
+    "explanation": "The crura of the diaphragm surround the esophagus at the hiatus and act as an external ('extrinsic') sphincter, compressing the esophagus especially during inspiration when intra-abdominal pressure rises."
+  },
+  {
+    "id": "gianat-002",
+    "imageRef": "gianat-002_gi000_f06.png",
+    "answer": "Reflux esophagitis",
+    "brick": "Benign Esophageal Disorders",
+    "category": "Histology & Cell Biology",
+    "explanation": "The normal esophagus is lined by stratified squamous nonkeratinized epithelium; reflux esophagitis produces basal cell hyperplasia, papillary elongation, and intraepithelial inflammation within this epithelium."
+  },
+  {
+    "id": "gianat-003",
+    "imageRef": "gianat-003_gi000_f17.png",
+    "answer": "Zenker diverticulum",
+    "brick": "Benign Esophageal Disorders",
+    "category": "Gross Anatomy",
+    "explanation": "A Zenker diverticulum is a false (pulsion) diverticulum herniating through Killian triangle, between the thyropharyngeus and cricopharyngeus fibers, due to impaired upper esophageal sphincter relaxation."
+  },
+  {
+    "id": "gianat-004",
+    "imageRef": "gianat-004_gi001_f02.png",
+    "answer": "Helicobacter pylori",
+    "brick": "Peptic Ulcer Disease and Gastritis",
+    "category": "Histology & Cell Biology",
+    "explanation": "Helicobacter pylori is a gram-negative, curved (seagull-shaped) rod that colonizes the mucus layer over gastric epithelium. It produces urease to survive gastric acid and causes chronic gastritis, peptic ulcers, gastric cancer, and MALT lymphoma."
+  },
+  {
+    "id": "gianat-005",
+    "imageRef": "gianat-005_gi001_f04.png",
+    "answer": "Gastrinoma triangle",
+    "brick": "Peptic Ulcer Disease and Gastritis",
+    "category": "Gross Anatomy",
+    "explanation": "About 90% of gastrinomas arise within this triangle, most often in the duodenum or head of the pancreas. Excess gastrin drives acid hypersecretion and the refractory ulcers of Zollinger-Ellison syndrome."
+  },
+  {
+    "id": "gianat-006",
+    "imageRef": "gianat-006_gi002_f05.png",
+    "answer": "Pleomorphic adenoma",
+    "brick": "Oral, Salivary Gland, and Esophageal Neoplasms",
+    "category": "Histology & Cell Biology",
+    "explanation": "Pleomorphic adenoma shows epithelial and myoepithelial cells embedded in a chondromyxoid matrix. This mixed pattern distinguishes it from Warthin tumor (lymphoid stroma) and mucoepidermoid carcinoma (mucous cells)."
+  },
+  {
+    "id": "gianat-007",
+    "imageRef": "gianat-007_gi002_f06.png",
+    "answer": "Warthin tumor",
+    "brick": "Oral, Salivary Gland, and Esophageal Neoplasms",
+    "category": "Histology & Cell Biology",
+    "explanation": "A bilayered oncocytic epithelium over lymphoid stroma with germinal centers is diagnostic of Warthin tumor. It arises almost exclusively in the parotid gland and is strongly linked to smoking."
+  },
+  {
+    "id": "gianat-008",
+    "imageRef": "gianat-008_gi004_f02.png",
+    "answer": "Liver segments",
+    "brick": "Anatomy of the Liver, Biliary System, and Pancreas",
+    "category": "Gross Anatomy",
+    "explanation": "The eight numbered functional units defined by independent portal inflow and hepatic venous outflow are the Couinaud segments, the basis for anatomic liver resection. Morphological lobes are surface-based; portal lobules and acini are microscopic units."
+  },
+  {
+    "id": "gianat-009",
+    "imageRef": "gianat-009_gi004_f05.png",
+    "answer": "Falciform ligament",
+    "brick": "Anatomy of the Liver, Biliary System, and Pancreas",
+    "category": "Gross Anatomy",
+    "explanation": "The ligamentum teres in the free edge of the falciform ligament is the obliterated left umbilical vein. The ductus venosus becomes the ligamentum venosum; the ductus arteriosus becomes the ligamentum arteriosum."
+  },
+  {
+    "id": "gianat-010",
+    "imageRef": "gianat-010_gi004_f21.png",
+    "answer": "Whipple procedure",
+    "brick": "Anatomy of the Liver, Biliary System, and Pancreas",
+    "category": "Gross Anatomy",
+    "explanation": "The Whipple procedure removes the pancreatic head, duodenum, gallbladder, and distal common bile duct (often the distal stomach), because these share blood supply, then reconstructs biliary, pancreatic, and gastric drainage."
+  },
+  {
+    "id": "gianat-011",
+    "imageRef": "gianat-011_gi005_f03.png",
+    "answer": "Lateral abdominal muscles",
+    "brick": "Anatomy of the Femoral and Inguinal Regions",
+    "category": "Gross Anatomy",
+    "explanation": "Because the three layers run in differing, overlapping directions, the wall gains strength in multiple planes, resisting the strain of raised intra-abdominal pressure and protecting the viscera."
+  },
+  {
+    "id": "gianat-012",
+    "imageRef": "gianat-012_gi005_f04.png",
+    "answer": "Abdominal wall cross-section",
+    "brick": "Anatomy of the Femoral and Inguinal Regions",
+    "category": "Gross Anatomy",
+    "explanation": "The deep fascia/aponeurotic layer forming the rectus sheath provides most of the wall's strength and is the layer surgeons reappose; failure of fascial healing leads to an incisional hernia."
+  },
+  {
+    "id": "gianat-013",
+    "imageRef": "gianat-013_gi005_f05.png",
+    "answer": "Appendectomy incision",
+    "brick": "Anatomy of the Femoral and Inguinal Regions",
+    "category": "Gross Anatomy",
+    "explanation": "Splitting muscle along its fibers (a gridiron approach) rather than transecting it preserves wall strength and reduces the chance of later herniation."
+  },
+  {
+    "id": "gianat-014",
+    "imageRef": "gianat-014_gi005_f07.png",
+    "answer": "Midline laparotomy",
+    "brick": "Anatomy of the Femoral and Inguinal Regions",
+    "category": "Gross Anatomy",
+    "explanation": "A midline laparotomy separates the right and left rectus muscles at the linea alba rather than cutting muscle, so it crosses minimal vasculature and preserves the muscle bellies."
+  },
+  {
+    "id": "gianat-015",
+    "imageRef": "gianat-015_gi005_f13.png",
+    "answer": "Regions of weakness",
+    "brick": "Anatomy of the Femoral and Inguinal Regions",
+    "category": "Gross Anatomy",
+    "explanation": "A direct hernia pushes through the floor of the canal medial to the inferior epigastric vessels, bypassing the deep ring, so it rarely follows the cord into the scrotum, unlike an indirect hernia."
+  },
+  {
+    "id": "gianat-016",
+    "imageRef": "gianat-016_gi005_f14.png",
+    "answer": "Femoral triangle",
+    "brick": "Anatomy of the Femoral and Inguinal Regions",
+    "category": "Gross Anatomy",
+    "explanation": "From lateral to medial the structures are nerve, artery, vein, empty space and lymphatics (the NAVEL mnemonic); the femoral nerve lies most lateral and outside the femoral sheath."
+  },
+  {
+    "id": "gianat-017",
+    "imageRef": "gianat-017_gi005_f16.png",
+    "answer": "Inguinal rings",
+    "brick": "Anatomy of the Femoral and Inguinal Regions",
+    "category": "Gross Anatomy",
+    "explanation": "Because the deep and superficial rings do not overlie one another, raised intra-abdominal pressure presses the canal walls together like a valve, helping to prevent herniation."
+  },
+  {
+    "id": "gianat-018",
+    "imageRef": "gianat-018_gi005_f17.png",
+    "answer": "Hesselbach's triangle",
+    "brick": "Anatomy of the Femoral and Inguinal Regions",
+    "category": "Gross Anatomy",
+    "explanation": "This is Hesselbach's (inguinal) triangle; herniation through its weak floor, medial to the inferior epigastric vessels, is by definition a direct inguinal hernia."
+  },
+  {
+    "id": "gianat-019",
+    "imageRef": "gianat-019_gi005_f21.png",
+    "answer": "Inguinal canal",
+    "brick": "Anatomy of the Femoral and Inguinal Regions",
+    "category": "Gross Anatomy",
+    "explanation": "The descent of the testis leaves a processus vaginalis that, if it fails to obliterate, allows an indirect inguinal hernia; this is much more common in males than in females."
+  },
+  {
+    "id": "gianat-020",
+    "imageRef": "gianat-020_gi006_f01.png",
+    "answer": "Pancreas",
+    "brick": "Histology of the Accessory Digestive Organs",
+    "category": "Histology & Cell Biology",
+    "explanation": "The rounded pale clusters are the Islets of Langerhans, the endocrine component of the pancreas. They secrete hormones (insulin from beta cells, glucagon from alpha cells, somatostatin from delta cells) into the blood, distinct from the surrounding exocrine acini that release digestive enzymes into ducts."
+  },
+  {
+    "id": "gianat-021",
+    "imageRef": "gianat-021_gi006_f09.png",
+    "answer": "Gallbladder",
+    "brick": "Histology of the Accessory Digestive Organs",
+    "category": "Histology & Cell Biology",
+    "explanation": "The gallbladder wall has a distinctive highly folded mucosa of simple columnar epithelium, a lamina propria, a muscularis with fibers in all directions, and an adventitia/serosa, but notably no muscularis mucosae or submucosa, distinguishing it from typical GI tract."
+  },
+  {
+    "id": "gianat-022",
+    "imageRef": "gianat-022_gi010_f01.png",
+    "answer": "GI tract",
+    "brick": "Gastrointestinal System: Foundations and Overview",
+    "category": "Gross Anatomy",
+    "explanation": "The gastroesophageal junction is guarded by the lower esophageal sphincter, a tonically contracted ring of smooth muscle that prevents acidic gastric contents from refluxing into the esophagus. The pyloric sphincter controls gastric emptying, the upper esophageal sphincter is skeletal muscle at the pharyngoesophageal junction, the ileocecal valve separates ileum from cecum, and the sphincter of Oddi controls bile/pancreatic outflow into the duodenum."
+  },
+  {
+    "id": "gianat-023",
+    "imageRef": "gianat-023_gi010_f03.png",
+    "answer": "Villi",
+    "brick": "Gastrointestinal System: Foundations and Overview",
+    "category": "Histology & Cell Biology",
+    "explanation": "Plica circulares (circular folds), villi, and microvilli (brush border) act multiplicatively to amplify the absorptive surface area of the small intestine several-hundred-fold, which is essential for efficient uptake of digested nutrients. They do not primarily affect motility, acid secretion, mucus thickness, or perfusion."
+  },
+  {
+    "id": "gianat-024",
+    "imageRef": "gianat-024_gi010_f05.png",
+    "answer": "Myenteric plexus",
+    "brick": "Gastrointestinal System: Foundations and Overview",
+    "category": "Histology & Cell Biology",
+    "explanation": "The myenteric (Auerbach) plexus lies between the circular and longitudinal muscularis layers and chiefly controls motility. The submucosal (Meissner) plexus, located in the submucosa, regulates secretion and local blood flow. The other options are not primary functions of the myenteric plexus."
+  },
+  {
+    "id": "gianat-025",
+    "imageRef": "gianat-025_gi012_f04.png",
+    "answer": "Normal liver",
+    "brick": "Alcohol-Associated Liver Disease",
+    "category": "Histology & Cell Biology",
+    "explanation": "Normal hepatic architecture consists of hepatocyte cords radiating from central veins, separated by sinusoids, with intact lobular structure and no accumulated fat, inflammatory infiltrate, or collagen deposition."
+  },
+  {
+    "id": "gianat-026",
+    "imageRef": "gianat-026_gi015_f06.png",
+    "answer": "Cirrhosis histology",
+    "brick": "Cirrhosis and Portal Hypertension",
+    "category": "Histology & Cell Biology",
+    "explanation": "Cirrhosis is defined histologically by bridging fibrous septa (collagen produced by activated hepatic stellate cells) enclosing regenerative nodules of hepatocytes, disrupting normal lobular architecture and sinusoidal blood flow."
+  },
+  {
+    "id": "gianat-027",
+    "imageRef": "gianat-027_gi018_f01.png",
+    "answer": "Biliary tree",
+    "brick": "Noninfectious Disorders of the Biliary System",
+    "category": "Gross Anatomy",
+    "explanation": "The green branching structures represent the biliary tree (intrahepatic ducts, hepatic ducts, and common bile duct), which carry bile from hepatocytes to the gallbladder and duodenum. Obstruction at different levels of this tree produces intrahepatic versus extrahepatic cholestasis."
+  },
+  {
+    "id": "gianat-028",
+    "imageRef": "gianat-028_gi019_f01.png",
+    "answer": "Hepatic hemangioma",
+    "brick": "Hepatic and Biliary Neoplasms",
+    "category": "Histology & Cell Biology",
+    "explanation": "Hepatic hemangiomas are the most common benign liver tumors and consist of dilated, blood-filled vascular channels lined by endothelium with variably sized channels and loose fibrous stroma, reflecting their nature as congenital vascular malformations."
+  },
+  {
+    "id": "gianat-029",
+    "imageRef": "gianat-029_gi019_f07.png",
+    "answer": "Hepatocellular carcinoma",
+    "brick": "Hepatic and Biliary Neoplasms",
+    "category": "Histology & Cell Biology",
+    "explanation": "Hepatocellular carcinoma consists of sheets of high-grade tumor cells with abundant cytoplasm and large abnormal nuclei; the presence of bile production (brown pigment) is a distinguishing feature confirming hepatocellular origin."
+  },
+  {
+    "id": "gianat-030",
+    "imageRef": "gianat-030_gi020_f01.png",
+    "answer": "Peritoneum",
+    "brick": "Peritonitis",
+    "category": "Histology & Cell Biology",
+    "explanation": "The peritoneum is a serous membrane whose surface is a single layer of flattened mesothelial cells (simple squamous epithelium) resting on a thin layer of connective tissue; this smooth surface plus a small amount of serous fluid lets the visceral and parietal layers glide over one another."
+  },
+  {
+    "id": "gianat-031",
+    "imageRef": "gianat-031_gi021_f05.png",
+    "answer": "Gastric pits",
+    "brick": "Histology of the Gastrointestinal Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "The cardia/antrum surface and foveolar (pit) cells are mucus-secreting, protecting the epithelium from acid."
+  },
+  {
+    "id": "gianat-032",
+    "imageRef": "gianat-032_gi021_f06.png",
+    "answer": "Parietal cells",
+    "brick": "Histology of the Gastrointestinal Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "Parietal cells of the gastric body/fundus secrete both HCl and intrinsic factor, the latter required for vitamin B12 absorption in the ileum."
+  },
+  {
+    "id": "gianat-033",
+    "imageRef": "gianat-033_gi021_f07.png",
+    "answer": "Plicae circulares",
+    "brick": "Histology of the Gastrointestinal Tract",
+    "category": "Gross Anatomy",
+    "explanation": "Plicae circulares are most highly concentrated in the jejunum and decrease toward the proximal duodenum and distal ileum."
+  },
+  {
+    "id": "gianat-034",
+    "imageRef": "gianat-034_gi021_f08.png",
+    "answer": "Intestinal villi",
+    "brick": "Histology of the Gastrointestinal Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "Enterocytes covering the villi have apical microvilli forming the brush border, dramatically increasing absorptive surface area."
+  },
+  {
+    "id": "gianat-035",
+    "imageRef": "gianat-035_gi021_f11.png",
+    "answer": "Brunner glands",
+    "brick": "Histology of the Gastrointestinal Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "Brunner glands reside in the submucosa and are unique to the duodenum, neutralizing gastric acid entering from the stomach."
+  },
+  {
+    "id": "gianat-036",
+    "imageRef": "gianat-036_gi021_f12.png",
+    "answer": "Paneth cells",
+    "brick": "Histology of the Gastrointestinal Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "Paneth cells sit at the crypt base and release antimicrobial defensins, lysozyme, and phospholipase A2, protecting stem cells."
+  },
+  {
+    "id": "gianat-037",
+    "imageRef": "gianat-037_gi021_f13.png",
+    "answer": "Peyer patches",
+    "brick": "Histology of the Gastrointestinal Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "Peyer patches are aggregated lymphoid follicles concentrated in the ileum, providing mucosal immune surveillance."
+  },
+  {
+    "id": "gianat-038",
+    "imageRef": "gianat-038_gi021_f14.png",
+    "answer": "Colonic crypts",
+    "brick": "Histology of the Gastrointestinal Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "The colon has abundant goblet cells that secrete mucus to lubricate compacting feces; it lacks villi."
+  },
+  {
+    "id": "gianat-039",
+    "imageRef": "gianat-039_gi021_f15.png",
+    "answer": "Appendix",
+    "brick": "Histology of the Gastrointestinal Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "The appendix mimics colonic mucosa but has prominent lymphoid nodules extending into the submucosa and effacing the muscularis mucosae."
+  },
+  {
+    "id": "gianat-040",
+    "imageRef": "gianat-040_gi021_f16.png",
+    "answer": "Anorectal junction",
+    "brick": "Histology of the Gastrointestinal Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "Stratified squamous epithelium at the anorectal junction resists the forceful, abrasive luminal functions of defecation."
+  },
+  {
+    "id": "gianat-041",
+    "imageRef": "gianat-041_gi022_f08.png",
+    "answer": "Pancreas Divisum",
+    "brick": "Acute and Chronic Pancreatitis",
+    "category": "Gross Anatomy",
+    "explanation": "Failure of dorsal and ventral duct fusion routes most pancreatic juice through the small minor papilla; the relative outflow resistance can raise ductal pressure and predispose to recurrent acute or chronic pancreatitis, though most cases are asymptomatic."
+  },
+  {
+    "id": "gianat-042",
+    "imageRef": "gianat-042_gi024_f01.png",
+    "answer": "Oral cavity",
+    "brick": "Gross Anatomy and Histology of the Oral Region",
+    "category": "Gross Anatomy",
+    "explanation": "The image shows a lateral profile of the head with structures cut through the midline (nasal septum, tongue, uvula, epiglottis all visible in a single vertical slice), which is the defining feature of a midsagittal section. Coronal and transverse planes would not display the anterior-to-posterior continuity of the oral cavity into the pharynx."
+  },
+  {
+    "id": "gianat-043",
+    "imageRef": "gianat-043_gi024_f04.png",
+    "answer": "Lips",
+    "brick": "Gross Anatomy and Histology of the Oral Region",
+    "category": "Gross Anatomy",
+    "explanation": "The vermilion border is the transition between the red lip mucosa (vermilion) and the adjacent facial skin. Because even a 1-mm step-off is visible, it must be aligned exactly during repair. The other choices describe different anatomical junctions unrelated to this labial landmark."
+  },
+  {
+    "id": "gianat-044",
+    "imageRef": "gianat-044_gi024_f05.png",
+    "answer": "Vermilion border",
+    "brick": "Gross Anatomy and Histology of the Oral Region",
+    "category": "Gross Anatomy",
+    "explanation": "When a laceration crosses the vermilion border, the first suture must be placed to reappose the vermilion border itself, because any misalignment of this high-contrast line is immediately noticeable. Only after this landmark is aligned are the remaining sutures placed."
+  },
+  {
+    "id": "gianat-045",
+    "imageRef": "gianat-045_gi024_f06.png",
+    "answer": "Parotid duct",
+    "brick": "Gross Anatomy and Histology of the Oral Region",
+    "category": "Gross Anatomy",
+    "explanation": "The parotid duct opens into the oral vestibule at a papilla opposite the maxillary (upper) second molar. This is a key landmark for assessing parotid gland function, cannulating the duct, or evaluating obstruction. The other locations do not correspond to any major salivary duct opening."
+  },
+  {
+    "id": "gianat-046",
+    "imageRef": "gianat-046_gi024_f07.png",
+    "answer": "Tongue",
+    "brick": "Gross Anatomy and Histology of the Oral Region",
+    "category": "Gross Anatomy",
+    "explanation": "The foramen cecum, at the apex of the sulcus terminalis, marks the origin of the thyroid diverticulum, which descends via the thyroglossal duct. Persistence of this tract can produce a thyroglossal duct cyst or a lingual thyroid. The salivary and parathyroid glands have entirely different embryologic origins."
+  },
+  {
+    "id": "gianat-047",
+    "imageRef": "gianat-047_gi024_f12.png",
+    "answer": "Hard palate",
+    "brick": "Gross Anatomy and Histology of the Oral Region",
+    "category": "Gross Anatomy",
+    "explanation": "The hard palate forms from fusion of the palatine processes of the maxillae and the horizontal plates of the palatine bones; failure of fusion produces a cleft palate, causing a communication between the oral and nasal cavities. Cleft lip results from failure of fusion of the lip prominences, a separate process."
+  },
+  {
+    "id": "gianat-048",
+    "imageRef": "gianat-048_gi024_f14.png",
+    "answer": "Sublingual region",
+    "brick": "Gross Anatomy and Histology of the Oral Region",
+    "category": "Gross Anatomy",
+    "explanation": "The submandibular (Wharton's) ducts open at the sublingual caruncles beside the frenulum, so these landmarks are used to assess salivary flow and to detect duct obstruction such as salivary stones. Taste, tongue strength (CN XII), and the gag reflex (CN IX/X) are assessed by other means."
+  },
+  {
+    "id": "gianat-049",
+    "imageRef": "gianat-049_gi024_f20.png",
+    "answer": "Serous demilunes",
+    "brick": "Gross Anatomy and Histology of the Oral Region",
+    "category": "Histology & Cell Biology",
+    "explanation": "In mixed sero-mucous glands, the serous cells form crescent-shaped caps called serous demilunes around mucous acini, adding enzymes such as lysozyme to the secretion. Intercalated ducts are conduits, myoepithelial cells are contractile basket cells, and Paneth cells belong to intestinal crypts, not salivary glands."
+  },
+  {
+    "id": "gianat-050",
+    "imageRef": "gianat-050_gi025_f01.png",
+    "answer": "GI blood supply",
+    "brick": "Gastrointestinal Blood Supply and Innervation",
+    "category": "Gross Anatomy",
+    "explanation": "The most inferior of the three unpaired anterior aortic branches is the inferior mesenteric artery (IMA), which supplies hindgut derivatives including the descending and sigmoid colon. The stomach, duodenum, spleen, and liver are foregut structures supplied by the celiac trunk."
+  },
+  {
+    "id": "gianat-051",
+    "imageRef": "gianat-051_gi025_f04.png",
+    "answer": "Midgut arteries",
+    "brick": "Gastrointestinal Blood Supply and Innervation",
+    "category": "Gross Anatomy",
+    "explanation": "The splenic flexure lies at the junction of the SMA and IMA territories (a watershed area) and is particularly susceptible to ischemic colitis when perfusion falls, owing to limited collateral circulation."
+  },
+  {
+    "id": "gianat-052",
+    "imageRef": "gianat-052_gi025_f08.png",
+    "answer": "Portal drainage",
+    "brick": "Gastrointestinal Blood Supply and Innervation",
+    "category": "Gross Anatomy",
+    "explanation": "Venous blood from the GI tract enters the hepatic portal system so the liver can process absorbed nutrients before the blood reaches the IVC and systemic circulation. The portal vein forms from the confluence of the splenic and superior mesenteric veins."
+  },
+  {
+    "id": "gianat-053",
+    "imageRef": "gianat-053_gi025_f10.png",
+    "answer": "Abdominal lymphatics",
+    "brick": "Gastrointestinal Blood Supply and Innervation",
+    "category": "Gross Anatomy",
+    "explanation": "Because abdominal lymphatics follow the arterial supply, nodes along the left gastric artery (a branch of the celiac trunk) drain the foregut-derived stomach. The distal colon, rectum, and appendix drain along mesenteric and iliac chains instead."
+  },
+  {
+    "id": "gianat-054",
+    "imageRef": "gianat-054_gi026_f01.png",
+    "answer": "GI tract",
+    "brick": "Anatomy of the Gastrointestinal Tract",
+    "category": "Gross Anatomy",
+    "explanation": "The peritoneum is the serous membrane that lines the abdominal cavity and invests its organs, classifying them as intraperitoneal or retroperitoneal. The pleura and pericardium line the thoracic cavities, and deep fascia is not a serous membrane."
+  },
+  {
+    "id": "gianat-055",
+    "imageRef": "gianat-055_gi026_f03.png",
+    "answer": "Mesentery",
+    "brick": "Anatomy of the Gastrointestinal Tract",
+    "category": "Gross Anatomy",
+    "explanation": "The mesentery proper suspends the small bowel and transmits the superior mesenteric artery and vein, autonomic nerves, and lymphatics. The portal triad runs in the hepatoduodenal ligament, not the small-bowel mesentery."
+  },
+  {
+    "id": "gianat-056",
+    "imageRef": "gianat-056_gi026_f11.png",
+    "answer": "Falciform ligament",
+    "brick": "Anatomy of the Gastrointestinal Tract",
+    "category": "Gross Anatomy",
+    "explanation": "The ligamentum teres hepatis is the fibrous remnant of the left umbilical vein. The ductus venosus becomes the ligamentum venosum, the ductus arteriosus becomes the ligamentum arteriosum, and the umbilical arteries become the medial umbilical ligaments."
+  },
+  {
+    "id": "gianat-057",
+    "imageRef": "gianat-057_gi026_f22.png",
+    "answer": "Duodenum",
+    "brick": "Anatomy of the Gastrointestinal Tract",
+    "category": "Gross Anatomy",
+    "explanation": "The common bile duct and main pancreatic duct join and drain at the major duodenal papilla in the second part of the duodenum. The minor papilla drains only the accessory pancreatic duct."
+  },
+  {
+    "id": "gianat-058",
+    "imageRef": "gianat-058_gi026_f26.png",
+    "answer": "Pectinate line",
+    "brick": "Anatomy of the Gastrointestinal Tract",
+    "category": "Gross Anatomy",
+    "explanation": "Below the pectinate (dentate) line, drainage is systemic through inferior rectal veins to the internal pudendal and internal iliac veins; above it, drainage is portal via the superior rectal vein, which is why this line marks a portosystemic anastomosis."
+  },
+  {
+    "id": "gianat-059",
+    "imageRef": "gianat-059_gi028_f05.png",
+    "answer": "Annular pancreas",
+    "brick": "Congenital Disorders of the Gastrointestinal Tract",
+    "category": "Gross Anatomy",
+    "explanation": "The pancreas forms from ventral and dorsal buds. If the ventral bud rotates abnormally, it can partially or completely encircle the duodenum (annular pancreas), sometimes causing duodenal obstruction with bilious vomiting and a double-bubble appearance."
+  },
+  {
+    "id": "gianat-060",
+    "imageRef": "gianat-060_gi028_f07.png",
+    "answer": "Midgut volvulus",
+    "brick": "Congenital Disorders of the Gastrointestinal Tract",
+    "category": "Gross Anatomy",
+    "explanation": "When the midgut fails to complete its normal 270-degree counterclockwise rotation, the mesentery anchors over a very short base rather than a broad one. This narrow pedicle allows the bowel to twist on itself (volvulus), compromising the superior mesenteric vessels and risking necrosis of the entire small intestine."
+  },
+  {
+    "id": "gianat-061",
+    "imageRef": "gianat-061_gi028_f13.png",
+    "answer": "Anorectal malformations",
+    "brick": "Congenital Disorders of the Gastrointestinal Tract",
+    "category": "Gross Anatomy",
+    "explanation": "The urorectal septum divides the cloaca into anorectal and urogenital portions. Abnormal development leaves fistulous connections between the rectum and the urethra, bladder, or vestibule (and, at the extreme, a persistent cloaca), as illustrated across these variants."
+  },
+  {
+    "id": "gianat-062",
+    "imageRef": "gianat-062_gi030_f04.png",
+    "answer": "Lymphocytic sialadenitis",
+    "brick": "Sjogren Syndrome",
+    "category": "Histology & Cell Biology",
+    "explanation": "The histologic hallmark of Sjogren syndrome is focal lymphocytic sialadenitis, in which periductal/periacinar aggregates are composed predominantly of CD4+ T cells (with B cells), quantified as a focus score on labial gland biopsy."
+  }
+]
